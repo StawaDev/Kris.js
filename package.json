@@ -1,0 +1,23 @@
+{
+  "name": "kris.js",
+  "version": "1.0.0",
+  "description": "npm for make bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "stawa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "kris.js": "^1.0.0"
+  }
+}
