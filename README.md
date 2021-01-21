@@ -1,12 +1,15 @@
-# How To Install Kris.js
+# Kris.js Guide
 
-> Step One
-Open Terminal (CRTL + SHIFT + `)
+Kris.js are discord.js but easier way to make a Discord Bot with simple code!
 
-> Step Two
-Type 'npm install kris.js'
-Type 'npm install discord.js'
-Type 'npm install dotenv'
+## Installation
 
-> Step Three
-Open this github for help 'https://github.com/StawaDev/Kris.js'
+```bash
+npm install kris.js
+```
+## Simple code
+
+```javascript
+const kris = require('kris.js');
+//coming soon
+```
