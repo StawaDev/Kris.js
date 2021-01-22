@@ -2,7 +2,7 @@
 
 Kris.js are discord.js but easier way to make a Discord Bot with simple code!
 
-[Discord Shield](https://discordapp.com/api/guilds/798749894373802004/widget.png?style=shield)
+![Discord Banner 4](https://discordapp.com/api/guilds/[798749894373802004]/widget.png?style=banner4)
 
 ## Kris.js Guide
 
