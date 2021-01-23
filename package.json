@@ -12,6 +12,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "kris.js": "^1.0.0"
+      "kris.js": "^0.0.1"
     }
   }
