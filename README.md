@@ -2,8 +2,6 @@
 
 Kris.js are discord.js but easier way to make a Discord Bot with simple code!
 
-
-
 ## Kris.js Guide
 
 We need to install package with [npm](https://www.npmjs.com/)
@@ -21,8 +19,13 @@ And we will give you some example for setup!
 
 ```javascript
 const kris = require('kris.js');
-var token = INPUTOKEN;
 //coming soon
+```
+After main.js completed, make file named "config.js"
+
+```javascript
+token="TOKEN"
+prefix="PREFIX"
 ```
 
 ## License
