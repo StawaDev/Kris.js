@@ -2,6 +2,10 @@
 
 Kris.js are discord.js but easier way to make a Discord Bot with simple code!
 
+## Version 0.0.4
+
+<a href="https://discord.gg/3p7SXcwfe7"><img src="https://discordapp.com/api/guilds/798749894373802004/embed.png" alt="Discord server" /></a>
+
 ## Kris.js Guide
 
 We need to install package with [npm](https://www.npmjs.com/)
@@ -24,8 +28,12 @@ const kris = require('kris.js');
 After main.js completed, make file named "config.js"
 
 ```javascript
-token="TOKEN"
-prefix="PREFIX"
+//Configuration Bot --
+token="Token"
+prefix="Prefix"
+//Status --
+typestats="Type of status" -- "CUSTOM_STATUS", "WATCHING", "STREAMING", "LISTENING".
+namestats="Text of status" -- "Kris.js or whatever is it."
 ```
 
 ## License
