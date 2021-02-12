@@ -9,9 +9,9 @@
     "engines": {
       "node": "12.x"
     },
-    "author": "",
+    "author": "stawa",
     "license": "ISC",
     "dependencies": {
-      "kris.js": "^0.0.3"
+      "kris.js": "^0.0.4"
     }
   }
